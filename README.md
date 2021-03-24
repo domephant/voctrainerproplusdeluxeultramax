@@ -1,2 +1,2 @@
 # voctrainerproplusdeluxeultramax
-Der simple Vokabeltrainer in der Proplusdeluxeultramax-Ausführung
+Der simple Vokabeltrainer in der Proplusdeluxeultramaxpremium-Ausführung
